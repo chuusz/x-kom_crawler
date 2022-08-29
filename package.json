@@ -1,0 +1,24 @@
+{
+  "name": "x-kom_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuusz/x-kom_crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuusz/x-kom_crawler/issues"
+  },
+  "homepage": "https://github.com/chuusz/x-kom_crawler#readme",
+  "dependencies": {
+    "mongodb": "^4.9.0",
+    "needle": "^3.1.0"
+  }
+}
